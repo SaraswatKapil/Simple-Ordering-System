@@ -9,9 +9,15 @@ discount.
 Annually during BFCM, all customers are eligible for an additional 15% discount based on their
 tier. How will you allocate this discount to every order?
 Please translate the above problem into a requirement document.
+
 Expectations
+
 ● Clean re-usable code following general best practises
+
 ● Rest API definition.
+
 ● Creation of entities.
+
 ● Exception handling and definition
+
 ● Identify any additional reporting API’s
